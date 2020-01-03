@@ -1,0 +1,11 @@
+y1 = top
+x1 = left
+y2 = top + height
+x2 = left + width
+
+left = 14.22
+top = 58.94
+width = 755.25
+height = 494.26
+
+14.22,58.94,553.2,769.47

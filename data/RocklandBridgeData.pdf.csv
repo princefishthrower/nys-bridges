@@ -1,0 +1,354 @@
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Airmont (Village),4.7 MI E JCT SH17 & SH 59,59  59 85011046 ABANDONED MNRR PV LINE,NYSDOT,2004,11/16/2016,FO,6.00
+kland,Airmont (Village),3.1 MILES SE OF SUFFERN,CHRISTMAS HILL RD Abandoned Railroad,30 - County,1974,03/26/2015,N,4.53
+kland,Airmont (Village),2.3 MILES EAST OF SUFFERN,SPOOK ROCK ROAD SUFFERN IND TRACK,30 - County,1968,03/13/2017,FO,5.42
+kland,Chestnut Ridge (Village),JCT OF RTS I87 & 45,87IX 45,2L - NYS Thruway Authority,1953,06/27/2016,SD,4.95
+kland,Chestnut Ridge (Village),3.1 MI S OF SPRING VALLEY,GAR ST PK INT NB RED SCHOOLHOUSE R,2L - NYS Thruway Authority,1956,05/12/2017,N,5.03
+kland,Chestnut Ridge (Village),3.1 MI S OF SPRING VALLEY,GAR ST PK INT SB RED SCHOOLHOUSE R,2L - NYS Thruway Authority,1956,05/12/2017,N,4.98
+kland,Chestnut Ridge (Village),JCT RTS GARDEN ST PKW+I87,GARDEN STATE PKWY 87IX,2L - NYS Thruway Authority,1957,03/29/2017,SD,4.42
+kland,Chestnut Ridge (Village),6.5 MI NW OF SPARKILL,GROTKE ROAD PASCACK BROOK,30 - County,1958,03/28/2017,N,6.60
+kland,Chestnut Ridge (Village),2.8 MI S OF SPRING VALLEY,GSP CONNECTOR NB WILLIAMS ROAD,2L - NYS Thruway Authority,1956,06/17/2015,N,4.98
+kland,Chestnut Ridge (Village),2.8 MI S OF SPRING VALLEY,GSP CONNECTOR SB WILLIAMS ROAD,2L - NYS Thruway Authority,1956,06/17/2015,N,5.05
+kland,Chestnut Ridge (Village),0.7 MI W JCT RTS I87<45,HUNGRY HOLLOW RD 87IX,2L - NYS Thruway Authority,1955,08/10/2016,FO,4.69
+kland,Chestnut Ridge (Village),6.2 MI SW OF NYACK,LILLIAN DRIVE PASCACK BROOK,40 - Town,1960,08/18/2017,N,6.16
+kland,Chestnut Ridge (Village),3.4 MI S OF SPRING VALLEY,PASCACK ROAD PASCACK BROOK,30 - County,1950,03/31/2015,FO,4.68
+kland,Chestnut Ridge (Village),0.3 MI E JCT RTS I87<45,SCOTLAND HILL RD 87IX,2L - NYS Thruway Authority,1953,05/16/2017,FO,4.33
+kland,Chestnut Ridge (Village),1.6 MI S OF SPRING VALLEY,SCOTLAND HILL RD GSP NB CONN TO I8,2L - NYS Thruway Authority,1956,08/27/2015,FO,4.63
+kland,Clarkstown (Town),1.6 MI S JCT RTS 9W+303,9W  9W85011109 ROCKLAND LK OUTLT,NYSDOT,1925,06/01/2016,SD,5.02
+kland,Clarkstown (Town),0.6 MI W JCT SH 59 & SH 3,5959 85011122 CSX RR,NYSDOT,2011,04/27/2016,N,7.00
+kland,Clarkstown (Town),0.6 MI W JCT SH 59 & SH 3,5959 85011122 CSX Transportation,NYSDOT,2012,04/27/2016,N,7.00
+kland,Clarkstown (Town),1000FT NW OF JCT 59 & 87I,59  59 85011082 N BR PASCACK BRK,NYSDOT,1997,11/09/2015,N,5.43
+kland,Clarkstown (Town),JCT RTE 59 + PIP INT 8,59  59 85011106 987C 987C85011071,NYSDOT,1955,11/10/2016,FO,5.29
+kland,Clarkstown (Town),.7 MI W JCT SH 59 & SH303,59  59 85011121 WESTERN Highway,NYSDOT,2012,12/07/2015,N,6.90
+kland,Clarkstown (Town),.7 MI W JCT SH 59 & SH303,59  59 85011122 WESTERN HIGHWAY,NYSDOT,2011,12/07/2015,N,6.83
+kland,Clarkstown (Town),0.6 MI W JCT RTS 59+303,59  59 85011124 HACKENSACK RIVER,NYSDOT,1959,10/05/2015,N,6.71
+kland,Clarkstown (Town),0.6 MI W JCT RTS 59+303,59  59 85011124 HACKENSACK RIVER,NYSDOT,1959,10/05/2015,N,6.42
+kland,Clarkstown (Town),JCT SH 59 & SH 303,59  59 85011127 303 303 85011055,NYSDOT,1934,05/24/2016,FO,4.73
+kland,Clarkstown (Town),1.5 MI E JCT I87 & PIP,287IX HACKENSACK RIVER,2L - NYS Thruway Authority,1954,07/19/2016,N,6.08
+kland,Clarkstown (Town),0.9 MI E JCT RTS I87<45,287IX PASCACK ROAD,2L - NYS Thruway Authority,1954,04/05/2017,FO,4.70
+kland,Clarkstown (Town),1 MI E JCT I87 & PIP,287IX STRAWTOWN RD-CR23,2L - NYS Thruway Authority,1954,04/05/2017,N,6.13
+kland,Clarkstown (Town),JCT RTE 304+PIP,304 304 85011044 987C 987C85011083,NYSDOT,1955,12/07/2016,FO,5.37
+kland,Clarkstown (Town),JCT SH 304 & I87/I287,304 304 85011050 87IX,NYSDOT,1953,07/28/2017,FO,4.58
+kland,Clarkstown (Town),1.4 MI S JCT RTS 304+9W,304 304 85011090 LK DEFOREST INLET,NYSDOT,1963,09/22/2016,N,4.36
+kland,Clarkstown (Town),0.7 MI S JCT RTS 304+59,304 304 85011228 BLAUVELT ROAD,NYSDOT,1968,07/26/2016,FO,4.68
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Clarkstown (Town),0.7 MI S JCT RTS 304+59,304 304 85011228 BLAUVELT ROAD,NYSDOT,1968,07/26/2016,FO,4.83
+kland,Clarkstown (Town),JCT SH 304 & SH 59,304 304 85011235 59  59 85011102,NYSDOT,1967,05/02/2017,FO,4.52
+kland,Clarkstown (Town),JCT SH 59 & SH 304,304 304 85011235 59  59 85011103,NYSDOT,1967,05/24/2016,FO,4.46
+kland,Clarkstown (Town),JCT RTS 59 & 87I-EXIT 14,59 87IX,2L - NYS Thruway Authority,1997,10/13/2015,FO,5.50
+kland,Clarkstown (Town),JCT PIP+RTE 59,59  59 85011106 987C 987C85011071,NYSDOT,1955,11/10/2016,FO,5.11
+kland,Clarkstown (Town),2.2 MI E INT I87 & PIP,87IX 303,2L - NYS Thruway Authority,1953,05/18/2016,SD,4.65
+kland,Clarkstown (Town),2.1 MI E JCT RTS I87 & 45,87IX N MIDDLETOWN RD/CR33,2L - NYS Thruway Authority,1953,05/31/2017,FO,6.02
+kland,Clarkstown (Town),NB P. I. P. over I-87,987C 87IX,NYSDOT,2000,10/19/2016,FO,6.87
+kland,Clarkstown (Town),SB P. I. P. over I-87,987C 87IX,NYSDOT,2000,10/19/2016,FO,6.79
+kland,Clarkstown (Town),3.7 MI N JCT PIP+RTE 59,987C 987C85011075 WEST NYACK ROAD,2N - Palisades Interstate,1956,11/08/2016,FO,6.11
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),0.5 M SE INT I87-G S PKWY,BLUE HERON ROAD PASCACK BROOK,40 - Town,1998,11/16/2016,N,5.88
+kland,Clarkstown (Town),.5 MI S JCT SH59 & CSX RR,CHURCH ST NAURAUSHAUN BROOK,40 - Town,1994,11/02/2016,FO,6.33
+kland,Clarkstown (Town),3.0 MI S  OF HAVERSTRAW,CONGERS ROAD LAKE DE FOREST,30 - County,1954,08/03/2015,N,5.77
+kland,Clarkstown (Town),.5 MI S EX 14A OF I87/287,CONVENT ROAD PASCACK CREEK,30 - County,1980,05/03/2017,N,4.88
+kland,Clarkstown (Town),2.7 MI S OF HAVERSTRAW,COUNTY ROAD 23 DE FOREST LAKE,30 - County,1954,09/17/2015,N,5.51
+kland,Clarkstown (Town),IN CLARKSTOWN,COUNTY ROAD 29 DEMAREST KILL,30 - County,1988,04/19/2017,N,6.12
+kland,Clarkstown (Town),1.9 MI OF HAVERSTRAW,COUNTY ROAD 29 HACKENSACK RIVER,30 - County,1992,10/19/2015,N,6.44
+kland,Clarkstown (Town),.125 MI N OF SH 304,CRANFORD DR TRIB DEMAREST KLL,40 - Town,1986,11/02/2016,N,5.00
+kland,Clarkstown (Town),1 MI NE JCT SH 59 & CR 45,FOREST BROOK ROAD PASCACK BROOK,30 - County,1993,10/01/2015,N,4.86
+kland,Clarkstown (Town),1.3 MI N of Casper Hill R,Kings Highway Kill Von Beaste,30 - County,2008,11/16/2016,FO,6.43
+kland,Clarkstown (Town),1.7 MI SE OF MOUNT IVY,LITTLE TOR ROAD TRB HACKENSACK RV,30 - County,1962,06/26/2017,N,6.00
+kland,Clarkstown (Town),0.2 MI N JCT PIP+RTE 304,LUDVIGH ROAD 987C987C85011085,2N - Palisades Interstate,1953,12/01/2016,N,4.27
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),1.2 MI N JCT PIP & SH 304,N MIDDLETOWN ROAD 987C 987C85011095,2N - Palisades Interstate,1953,11/28/2016,FO,4.82
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),AT NEW CITY,NORTH MAIN STREET DEMAREST KILL,30 - County,1994,08/29/2017,N,5.00
+kland,Clarkstown (Town),257' W of Main St & New h,New Hempstead Road DEMAREST KILL,30 - County,2012,04/20/2016,N,7.00
+kland,Clarkstown (Town),2.5 MI NW OF NYACK,OLD MILL ROAD HACKENSACK RIVER,30 - County,1950,11/20/2015,FO,4.58
+kland,Clarkstown (Town),5.8 MI E OF SUFFERN,OLD TURNPIKE ROAD PASCACK BROOK,40 - Town,1953,05/31/2017,N,4.08
+kland,Clarkstown (Town),0.5 MI WEST JCT I87 & 303,PALISADES CTR DR 87IX,40 - Town,1997,11/18/2016,N,6.39
+kland,Clarkstown (Town),.5 MI W JCT SH59 & SH303,PALISADES CTR DRV 59  59 85011124,40 - Town,1997,06/09/2016,FO,5.48
+kland,Clarkstown (Town),4.2 MI SE OF HAVERSTRAW,ROCKLAND LAKE RD EAST BROOK,2N - Palisades Interstate,1962,03/30/2015,N,5.32
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),4.2 MI SE OF HAVERSTRAW,ROCKLAND LAKE ROAD EAST BROOK,2N - Palisades Interstate,1962,03/30/2015,N,5.00
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),1.0 MI E JCT RTS 59 & PIP,Route 59 EB SICKLETOWN ROAD,NYSDOT,2011,12/29/2015,FO,6.12
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Clarkstown (Town),1.0 MI E JCT RTS 59 & PIP,Rt 59 WB SICKLETOWN ROAD,NYSDOT,2011,12/29/2015,FO,6.28
+kland,Clarkstown (Town),0.3 MI INT W RTE 304,SMITH ROAD NAURAUSHAUN BROOK,30 - County,1987,07/11/2017,N,7.00
+kland,Clarkstown (Town),.8 MI NW JCT I87 & SH 303,SNAKE HILL ROAD CSX TRANS/RVR LNE,30 - County,1989,04/27/2016,N,4.19
+kland,Clarkstown (Town),3.8MI N INT MAIN ST & 287,SQUADRON BLVD DEMAREST KILL,40 - Town,1995,12/11/2015,N,5.45
+kland,Clarkstown (Town),2.7 MI N JCT PIP & SH 304,TWIN ELMS LANE TRIB TO HACKENSACK,40 - Town,2002,08/10/2015,N,6.64
+"",,,RIVER,,,,,
+kland,Clarkstown (Town),2.5 MI N JCT PIP+RTE 304,WESTCLARKSTOWN RD 987C987C85011107,2N - Palisades Interstate,1953,11/30/2016,FO,4.86
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),2.5 MI N JCT PIP+RTE 304,WESTCLARKSTOWN RD 987C987C85011107,2N - Palisades Interstate,1953,10/11/2016,FO,4.35
+"",,,,Park Commission,,,,
+kland,Clarkstown (Town),2.2 MI SW OF NYACK,WESTERN HIGHWAY HACKENSACK RIVER,30 - County,1966,03/28/2017,N,5.71
+kland,Haverstraw (Town),LAKE WELCH PKWY -HARRIMAN,987A987A85011022 County Road 106,2N - Palisades Interstate,1967,10/12/2016,N,5.42
+"",,,,Park Commission,,,,
+kland,Haverstraw (Town),JCT RTE 202 + PIP(987C),987C987C85011142 202 202 85011090,2N - Palisades Interstate,2010,10/28/2016,FO,4.86
+"",,,,Park Commission,,,,
+kland,Haverstraw (Town),1.1 MI N JCT PIP+RTE 202,987CX MINISCEONGO CREEK,2N - Palisades Interstate,1947,11/08/2016,N,4.00
+"",,,,Park Commission,,,,
+kland,Haverstraw (Town),2.4 MI N JCT PIP+RTE 202,987CX RAMP MINISCEONGO CREEK,2N - Palisades Interstate,1951,11/16/2016,FO,5.00
+"",,,,Park Commission,,,,
+kland,Haverstraw (Town),3.4 MI SW OF STONY POINT,CALLS HOLLOW ROAD MINISCEONGO CREEK,30 - County,1989,06/06/2017,N,5.15
+kland,Haverstraw (Town),0.9 MI NE OF W HAVERSTRAW,GAGAN ROAD MINISCEONGO CREEK,30 - County,1925,04/19/2017,N,4.25
+kland,Haverstraw (Town),1.0 MI NE OF W HAVERSTRAW,GRASSY POINT ROAD MINISCEONGO CREEK,30 - County,1928,05/31/2017,FO,3.73
+kland,Haverstraw (Town),0.8 MI N OF MT IVY,MOUNT IVY ROAD MINISCEONGO CREEK,30 - County,1984,05/03/2017,N,6.05
+kland,Haverstraw (Town),0.5MI W OF MOUNT IVY,QUAKER ROAD MINISCEONGO CREEK,30 - County,1992,07/17/2017,FO,6.07
+kland,Haverstraw (Town),1.0 MI NW OF HAVERSTRAW,ROSMAN ROAD MINISCEONGO CREEK,30 - County,1967,04/14/2015,N,4.85
+kland,Haverstraw (Town),2.1 MI NW W HAVERSTRAW,STORRS ROAD MINISCEONGO CREEK,72 - Other,1995,09/18/2017,N,6.07
+kland,Haverstraw (Town),1.75 MI NE 987C & Rt.202,Underpass Road Minisceongo Creek,40 - Town,2009,09/13/2016,N,5.72
+kland,Haverstraw (Town),2.7 MI NW W HAVERSTRAW,WILLOW GROVE RD MINISCEONGO CREEK,20 - State - Other,1999,06/01/2016,N,6.04
+kland,Haverstraw (Village),1.6 MI S JCT RTS 9W+210,9W  9W85011161 MINISCEONGO CREEK,NYSDOT,1955,07/06/2016,FO,3.87
+kland,Haverstraw (Village),AT HAVERSTRAW,SAMSONDALE AVENUE MINESCEONGO CREEK,30 - County,1975,08/17/2017,N,4.71
+kland,Haverstraw (Village),6060' SE JCT 202 & 9W,SHORT CLOVE ROAD CSX TRANSPORTATIO,60 - Railroad,2011,04/20/2017,N,6.48
+kland,Haverstraw (Village),6090' SE JCT 202 & 9W,SHORT CLOVE ROAD RIVERSIDE AVENUE,41 - Village,2011,12/14/2015,N,6.46
+kland,Hillburn (Village),.2 MI E JCT SH 59 & SH 17,59  59 85011001 RAMAPO RIVER,NYSDOT,2000,12/31/2015,N,5.73
+kland,Hillburn (Village),.4 MI E JCT SH 59 & SH 17,59  59 85011004 MNRR PJ LINE,NYSDOT,1932,10/11/2016,N,4.14
+kland,Hillburn (Village),JCT SH 17 & I87,87IX 17  17  85111039,NYSDOT,1953,08/08/2016,N,6.31
+kland,Hillburn (Village),0.7 MI W JCT RTS I87<202,87IX RAMAPO RIVER,2L - NYS Thruway Authority,1955,04/28/2017,N,5.83
+kland,Hillburn (Village),.4 MI N JCT I87 & I287,FOURTH STREET 87IX,2L - NYS Thruway Authority,1994,04/18/2017,FO,6.45
+kland,Hillburn (Village),2.5 MI SE OF SLOATSBURG,FOURTH STREET AVON SERVICE ROAD,60 - Railroad,1965,05/09/2017,N,4.02
+kland,Hillburn (Village),2.6 MI NW OF SUFFERN,FOURTH STREET RAMAPO RIVER,30 - County,1966,10/01/2015,N,5.42
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Hillburn (Village),JCT I287 & I87/SH17 INTER,RAMP B SB TO I287 RAMAPO RIVER,2L - NYS Thruway Authority,1994,04/25/2016,N,5.89
+kland,Hillburn (Village),JCT I87 & I287,RAMP D TO 87IX NB 87IX,2L - NYS Thruway Authority,1993,10/05/2016,N,6.32
+kland,Montebello (Village),2.9 MI E JCT US202 & SH59,202 202 85011034 MAHWAH RIVER,NYSDOT,2000,04/20/2016,N,5.81
+kland,Montebello (Village),1.0 MI E JCT RTS I87+202,COUNTY ROAD 93 87IX,2L - NYS Thruway Authority,1956,04/13/2016,FO,4.67
+kland,Montebello (Village),.6 MILE EAST OF SUFFERN,COUNTY ROAD 93 SUFFERN IND TRACK,30 - County,1964,03/29/2017,FO,6.02
+kland,Montebello (Village),3.7 MI SE OF SLOATSBURG,MAYER DRIVE MAHWAH RIVER,30 - County,1910,05/17/2016,FO,5.35
+kland,Montebello (Village),0.5 MI N OF SUFFERN,MONTEBELLO ROAD MAHWAH RIVER,30 - County,2015,05/19/2016,SD,6.65
+kland,Montebello (Village),4.0 MI NW SPRING VALLEY,VIOLA ROAD MAHWAH RIVER,30 - County,1965,08/09/2017,N,6.43
+kland,Nyack (Village),0.2 MI S JCT RTS I87 & 9W,87IX 59,2L - NYS Thruway Authority,1953,06/03/2016,FO,4.74
+kland,Nyack (Village),0.8 MI N I87 INT 10,9W 87IX,NYSDOT,1954,10/05/2016,FO,4.03
+kland,Nyack (Village),3.0 MI E JCT RTS I-87<PIP,MOUNTAINVIEW AVE 87IX,2L - NYS Thruway Authority,1954,11/17/2015,SD,4.17
+kland,Orangetown (Town),1 MI S JCT SH 303 & PIP,303 303 85011004 WASHINGTN ST-CR 8,NYSDOT,1932,12/19/2016,FO,4.22
+kland,Orangetown (Town),0.4 MI S JCT SH 303 & PIP,303 303 85011010 SPARKILL CREEK,NYSDOT,1932,11/02/2016,N,4.13
+kland,Orangetown (Town),JCT RTE 303+PIP,303 303 85011014 987C 987C85011025,2N - Palisades Interstate,1958,11/17/2016,FO,5.37
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),0.7 MI N JCT RTE 303+PIP,303 303 85011021 SPARKILL CREEK,NYSDOT,1932,12/12/2016,N,4.57
+kland,Orangetown (Town),1.1 MI N JCT RTE 303+PIP,303 303 85011025 SPARKILL CREEK,NYSDOT,1932,11/23/2016,N,4.29
+kland,Orangetown (Town),1.8 MI S JCT RTS 304+59,304 304 85011017 BANTING WAY,NYSDOT,1968,10/31/2016,FO,4.77
+kland,Orangetown (Town),1.8 MI S JCT RTS 304+59,304 304 85011017 BANTING WAY,NYSDOT,1968,10/27/2016,FO,4.71
+kland,Orangetown (Town),1.0 MI S JCT RTS 304+59,304 304 85011024 TOWN LINE RD CR42,NYSDOT,1968,08/17/2016,FO,4.77
+kland,Orangetown (Town),1.0 MI S JCT RTS 304+59,304 304 85011024 TOWN LINE RD CR42,NYSDOT,1968,08/17/2016,FO,5.20
+kland,Orangetown (Town),2.4 MI S JCT RTS 304+59,304 304 85011211 W CROOKED HILL RD,NYSDOT,1968,08/17/2016,FO,4.75
+kland,Orangetown (Town),2.4 MI S JCT RTS 304+59,304 304 85011211 W CROOKED HILL RD,NYSDOT,1968,08/17/2016,FO,4.89
+kland,Orangetown (Town),2.3 MI S JCT SH304 & SH59,304 304 85011212 RAILROAD AVENUE,NYSDOT,1968,11/10/2016,N,5.39
+kland,Orangetown (Town),2.3 MI S JCT SH304 & SH59,304 304 85011212 RAILROAD AVENUE,NYSDOT,1968,11/10/2016,N,5.53
+kland,Orangetown (Town),JCT RTS 340+PIP,340 340 85011006 987C 987C85011010,2N - Palisades Interstate,1954,12/06/2016,FO,5.30
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),JCT PIP+RTE 340,340 340 85011006 987C987C85011010,2N - Palisades Interstate,1954,12/20/2016,FO,4.47
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.5 MI S JCT SH303 &SH340,340 340 85011014 SPARKILL CREEK,NYSDOT,2003,06/12/2017,FO,6.05
+kland,Orangetown (Town),TAPPAN ZEE BRIDGE,87IX RIVER ROAD,2L - NYS Thruway Authority,1955,12/08/2016,FO,3.57
+kland,Orangetown (Town),0.8 MI S JCT PIP+RTE 340,987C 987C85011002 CR 33-CLOSTER RD,2N - Palisades Interstate,1954,11/30/2016,N,4.73
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),.2 MI NW JCT PIP & SH 340,987C 987C85011012 LOWER SPARKILL CK,2N - Palisades Interstate,1954,11/03/2016,N,7.00
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.2 MI N JCT PIP+RTE 340,987C 987C85011022 UPPER SPARKILL CR,2N - Palisades Interstate,1954,09/29/2016,N,5.00
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.2 MI N JCT PIP+RTE 340,987C 987C85011022 UPPER SPARKILL CR,2N - Palisades Interstate,1954,09/29/2016,N,5.44
+"",,,,Park Commission,,,,
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Orangetown (Town),.3 MI N JCT PIP & SH 303,987C 987C85011028 WESTERN HIGHWAY,2N - Palisades Interstate,1956,07/18/2016,FO,5.43
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),2.8 MI N JCT PIP+RTE 303,987C 987C85011053 HACKENSACK RIVER,2N - Palisades Interstate,1956,09/01/2016,N,4.85
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),3.2 MI N JCT PIP & SH 303,987C 987C85011062 TOWN LINE ROAD,2N - Palisades Interstate,1956,08/18/2016,FO,4.43
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),0.2 MI N JCT PIP+RTE 303,987C987C25011028 CSX TRANSPRTATION,2N - Palisades Interstate,2001,04/26/2016,N,5.93
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.7 MI N JCT PIP+RTE 303,987C987C85011042 CONVENT RD CR 26,2N - Palisades Interstate,1956,12/06/2016,N,5.11
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),2.8 MI N JCT PIP+RTE 303,987CX HACKENSACK RIVER,2N - Palisades Interstate,1956,09/01/2016,N,4.82
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),.4 MI N JCT PIP & SH 340,987CX RECREATION TRAIL,2N - Palisades Interstate,1954,12/12/2016,N,4.62
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),3.6 MI NW OF SPARKILL,BLAUVELT ROAD HACKENSACK RIVER,30 - County,1994,09/01/2016,N,6.23
+kland,Orangetown (Town),4.4 MI NW OF PIERMONT,BLAUVELT ROAD NAURAUSHAUN BROOK,30 - County,1974,04/10/2017,N,5.00
+kland,Orangetown (Town),3.2 MI NW OF SPARKILL,CONVENT ROAD TAPPAN LAKE,30 - County,1967,11/20/2015,N,5.13
+kland,Orangetown (Town),3.2 MI SW OF NYACK,FIFTH AVENUE HACKENSACK RIVER,30 - County,1983,08/08/2017,N,5.14
+kland,Orangetown (Town),5.2 MI NW OF SPARKILL,JEFFERSON AVENUE MUDDY CREEK,30 - County,1930,03/27/2017,FO,6.11
+kland,Orangetown (Town),1.1 MI N JCT PIP+RTE 340,KINGS HIGHWAY 987C8501 1021,2N - Palisades Interstate,1954,12/13/2016,FO,5.07
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.1 MI N JCT PIP+RTE 340,KINGS HIGHWAY 987C NO BOUND,2N - Palisades Interstate,1954,12/14/2016,FO,5.00
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.0 MI SW OF SPARKILL,KINGS HIGHWAY SPARKILL CREEK,40 - Town,1931,04/10/2017,N,4.24
+kland,Orangetown (Town),3 MILES NW OF SPARKILL,LEBER ROAD CSX TRANS/ RVR LN,30 - County,1999,04/20/2017,FO,6.31
+kland,Orangetown (Town),1.6 MI S JCT SH59 & SH304,MIDDLETOWN ROAD 304 304 85012019,NYSDOT,1968,06/26/2017,FO,
+kland,Orangetown (Town),1.8 MI NW OF SPARKILL,MOUNTAIN VIEW AVE CSX TRANS/RIVR LN,30 - County,1992,04/25/2016,N,5.78
+kland,Orangetown (Town),.5 MI S JCT PIP & SH 340,OAK TREE ROAD 987C 987C85011005,2N - Palisades Interstate,1954,09/11/2015,FO,4.93
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.0 MI S OF SPARKILL,OAK TREE ROAD SPARKILL CREEK,30 - County,2014,01/07/2015,N,7.00
+kland,Orangetown (Town),1.0 MI N JCT PIP+RTE 303,ORANGEBURG ROAD 987C 987C85011035,NYSDOT,1956,11/17/2016,FO,5.83
+kland,Orangetown (Town),1.0 MI N JCT PIP+RTE 303,ORANGEBURG ROAD 987C 987C85011035,2N - Palisades Interstate,1956,10/19/2016,FO,3.89
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.5 MI NW OF SPARKILL,ORANGEBURG ROAD Access Road,30 - County,1967,12/21/2016,SD,4.60
+kland,Orangetown (Town),1.7 MI W OF PIERMONT,ORANGEBURG ROAD SPARKILL CREEK,30 - County,1967,03/27/2017,FO,6.00
+kland,Orangetown (Town),500' S of CR 8,Oak Tree Road Sparkill Creek,40 - Town,2015,07/20/2016,N,6.49
+kland,Orangetown (Town),3.1 MI N JCT PIP & SH 303,SICKLETOWN ROAD 987C 987C85011056,2N - Palisades Interstate,1956,09/21/2016,FO,4.90
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),3.8 MI NW OF SPARKILL,SICKLETOWN ROAD NAURAUSHAUN BROOK,30 - County,2006,04/07/2015,N,6.87
+kland,Orangetown (Town),3.8 MI W OF SOUTH NYACK,TOWNLINE ROAD NAURAUSHAUN BROOK,30 - County,1974,07/18/2017,N,5.77
+kland,Orangetown (Town),2.1 MI N JCT PIP & SH 303,VAN WYCK ROAD 987C 987C85011046,2N - Palisades Interstate,1956,09/22/2016,FO,4.93
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),IN ORANGEBURG,VAN WYCK ROAD 987C987C85011047,2N - Palisades Interstate,1956,11/10/2016,FO,4.93
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),3.2 MI NW OF SPARKILL,VETERANS MEM DR TAPPAN LAKE,30 - County,1954,11/17/2015,N,4.87
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Orangetown (Town),5.9 MI NW OF SPARKILL,WASHINGTON AVENUE PASCACK BROOK,30 - County,1930,03/29/2017,FO,4.89
+kland,Orangetown (Town),0.5 MI N JCT PIP+RTE 340,WASHINGTON STREET 987CX,2N - Palisades Interstate,1954,11/11/2016,FO,5.53
+"",,,,Park Commission,,,,
+kland,Orangetown (Town),1.0 MI SW OF SPARKILL,WASHINGTON STREET SPARKILL CREEK,30 - County,1940,11/28/2016,N,5.58
+kland,Orangetown (Town),0.6 MI S OF PIERMONT,WILLIAM STREET SPARKILL CREEK,30 - County,1950,03/24/2015,N,4.98
+kland,Piermont (Village),JCT US 9W & SPARKILL CRK,9W  9W85011024 FERDON AVENUE,NYSDOT,2002,09/13/2016,FO,6.67
+kland,Piermont (Village),1.0 MI NE OF SPARKILL,FERDON AVENUE SPARKILL CREEK,30 - County,1935,07/29/2015,FO,5.28
+kland,Piermont (Village),.8 MILE NE OF SPARKILL,ROCKLAND AVENUE SPARKILL CREEK,41 - Village,1874,10/05/2016,FO,4.13
+kland,Ramapo (Town),JCT RTE 45+PIP,45 850 85011075 987C 987C85011132,2N - Palisades Interstate,1955,11/16/2016,FO,3.68
+"",,,,Park Commission,,,,
+kland,Ramapo (Town),.2 MI W JCT SH59 & SH306,59  59 85011060 Metro North Railroad,NYSDOT,2006,08/24/2016,N,6.26
+"",,,Abandoned,,,,,
+kland,Ramapo (Town),1.2 MI W JCT SH 45 & I87,287IX SADDLE RV RD-CR73,2L - NYS Thruway Authority,1954,04/04/2017,SD,5.31
+kland,Ramapo (Town),0.8 MI W JCT RTS 59+306,59 87IX,NYSDOT,1954,05/25/2016,N,4.25
+kland,Ramapo (Town),2.6 MI E JCT RTS I-87&202,87IX SPOOK ROCK RD,2L - NYS Thruway Authority,1953,05/24/2017,SD,5.83
+kland,Ramapo (Town),4 MI E JCT I87 & SH 202,87IX  (NB) NJ Transit (Aban),2L - NYS Thruway Authority,1954,04/20/2016,N,5.25
+kland,Ramapo (Town),4 MI E JCT I87 & US 202,87IX  (SB) NJ Transit (Aban),2L - NYS Thruway Authority,1954,04/20/2016,SD,5.62
+kland,Ramapo (Town),JCT I87 AND SH 17,87IX NB 17,2L - NYS Thruway Authority,1953,10/07/2015,FO,4.92
+kland,Ramapo (Town),JCT I87 AND SH 17,87IX SB 17,2L - NYS Thruway Authority,1953,10/07/2015,FO,5.00
+kland,Ramapo (Town),3.3 MI N JCT PIP+RTE 304,987C987C85011116 CR80-NEW HMSTD RD,2N - Palisades Interstate,1953,11/18/2016,FO,4.57
+"",,,,Park Commission,,,,
+kland,Ramapo (Town),3.5 MI NE OF SLOATSBURG,987E 987E85011110 LAKE SEBAGO DAM,2N - Palisades Interstate,1924,06/07/2017,N,3.60
+"",,,,Park Commission,,,,
+kland,Ramapo (Town),1.8 MI NE OF SLOATSBURG,987E987E85011008 STONY BROOK,2N - Palisades Interstate,1961,07/15/2016,N,6.13
+"",,,,Park Commission,,,,
+kland,Ramapo (Town),1.9 MI E JCT RTS I-87<202,AIRMONT ROAD EB 87IX,2L - NYS Thruway Authority,1956,09/17/2015,FO,4.50
+kland,Ramapo (Town),AIRMONT RD & I87 NYS TWY,AIRMONT ROAD SB 87IX,30 - County,1993,09/29/2016,FO,4.78
+kland,Ramapo (Town),3.1 MI E JCT RTS I87<202,COLLEGE ROAD CR81 87IX,2L - NYS Thruway Authority,1956,05/09/2017,SD,4.50
+kland,Ramapo (Town),.5 MI E JCT US202 & CR80,GRANDVIEW AVENUE SPOOK ROCK BROOK,30 - County,1963,12/05/2016,N,3.00
+kland,Ramapo (Town),0.6 MI EAST OF US 202,GRANDVIEW AVENUE WILLOW TREE BROOK,30 - County,1963,06/24/2016,N,4.00
+kland,Ramapo (Town),3.8 MI SE OF SUFFERN,HILLSIDE AVENUE SADDLE RIVER,30 - County,1989,08/18/2017,N,6.00
+kland,Ramapo (Town),0.8 MI WEST OF SR 45,POMONA ROAD MINISCEONGO CREEK,30 - County,1963,06/24/2016,N,6.00
+kland,Ramapo (Town),1.4MI NW JCT RT17&RR&THWY,STERLING MINE RD 17  17 85111021,NYSDOT,1967,08/17/2016,N,4.94
+kland,Ramapo (Town),2 MI N THRUWAY EXIT 15,TANDEM TRK ACCESS 87IX,2L - NYS Thruway Authority,1992,06/01/2016,FO,6.29
+kland,Ramapo (Town),1 MI NE JCT US202 & Rt 88,WILLOW TREE ROAD WILLOW TREE BROOK,40 - Town,2010,11/18/2016,FO,6.03
+kland,Sloatsburg (Village),2.2 MI N JCT RTS 17+59,17  17 85111018 NAKAMA CREEK,NYSDOT,1939,07/26/2016,FO,3.69
+kland,Sloatsburg (Village),4.3 MI N JCT RTS I87+202,87IX (NB) SEVEN LAKES DRIVE,2L - NYS Thruway Authority,2013,08/08/2017,FO,6.83
+kland,Sloatsburg (Village),4.3 MI N JCT RTS I87+202,87IX(SB) SEVEN LAKES DRIVE,2L - NYS Thruway Authority,2013,08/08/2017,N,6.72
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Sloatsburg (Village),IN SLOATSBURG,981G 981G85011000 MNRR PJ LINE,NYSDOT,1950,10/11/2016,N,4.32
+kland,Sloatsburg (Village),0.1MI E JCT RTE17+PARK RD,981G 981G85011001 RAMAPO RIVER,NYSDOT,1929,12/08/2016,FO,4.42
+kland,Sloatsburg (Village),0.9 MI NE OF SLOATSBURG,987E 987E85011002 STONY BROOK,2N - Palisades Interstate,1961,12/20/2016,N,5.03
+"",,,,Park Commission,,,,
+kland,Sloatsburg (Village),AT SLOATSBURG,SEVEN LAKES DRIVE STONY BROOK,2N - Palisades Interstate,1953,05/16/2017,N,4.97
+"",,,,Park Commission,,,,
+kland,Sloatsburg (Village),AT SLOATSBURG,SEVEN LAKES DRIVE STONY BROOK,2N - Palisades Interstate,1953,07/13/2016,N,4.98
+"",,,,Park Commission,,,,
+kland,Sloatsburg (Village),0.2MI E JCT RTE17+PARK RD,Seven Lakes Drive RAMAPO RIVER,NYSDOT,2011,12/31/2015,FO,6.95
+kland,Sloatsburg (Village),Jct 87 & Seven Lakes,WALDRON TERRACE STONY BROOK,30 - County,2014,06/09/2016,N,6.89
+kland,Sloatsburg (Village),.6 MILE N OF SLOATSBURG,WASHINGTON AVENUE RAMAPO RIVER,30 - County,1992,05/17/2017,N,4.36
+kland,South Nyack (Village),0.2 MI. N. OF  S. BRDWY,87I EXIT10 RAMP NB 87I ENTRY RAMP SB,2L - NYS Thruway Authority,1953,06/07/2017,N,6.53
+kland,South Nyack (Village),JCT RTE 9W SB+I87 INT 10,9W 87IX,2L - NYS Thruway Authority,1954,06/02/2016,FO,5.85
+kland,South Nyack (Village),JCT RTE 9W NB+I87 INT 10,9W9W 85011064 87IX,2L - NYS Thruway Authority,1954,04/24/2017,FO,4.40
+kland,South Nyack (Village),0.9 MI S OF NYACK,BROADWAY 87IX,2L - NYS Thruway Authority,1953,04/24/2017,FO,3.69
+kland,South Nyack (Village),.7 MILE SOUTH OF NYACK,ROUTE 9W RAMP 87IX,2L - NYS Thruway Authority,1954,04/24/2017,FO,4.69
+kland,Spring Valley (Village),0.6 MI N JCT SH 59 & SH 4,45  45 85011037 PASCACK BROOK,NYSDOT,1978,08/23/2016,N,4.25
+kland,Spring Valley (Village),0.7 MI E JCT RTS 59+45,59  59 85011083 PASCACK RD CORD22,NYSDOT,1931,11/03/2016,FO,5.86
+kland,Spring Valley (Village),0.3 MI E JCT RTS 59+45,5959 85011078 PASCACK CREEK,NYSDOT,1931,06/15/2017,N,4.66
+kland,Spring Valley (Village),AT SPRING VALLEY,LAWRENCE STREET TRB PASCACK BROOK,30 - County,1975,06/12/2015,FO,4.31
+kland,Spring Valley (Village),1000 FT S PASCACK RD&RT59,New Pascack Rd PASCACK BROOK,30 - County,1997,07/13/2017,N,6.15
+kland,Spring Valley (Village),1100 FT NW JCT RTS 59&I87,SOUTH PASCACK ROAD PASCACK BROOK,30 - County,1997,06/12/2017,N,6.56
+kland,Stony Point (Town),JCT RTS 6-202 < HUDSON R,66 85021002 CSXT RIVER LINE,2K - NYS Bridge Authority,1924,05/02/2016,N,5.45
+kland,Stony Point (Town),4.1 MI N OF MOUNT IVY,987A 987A85011053 TIORATI BROOK,2N - Palisades Interstate,1967,08/09/2017,N,6.00
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),EXIT 16 - P I P,987A Ramp to 987C 987C987C85011191,2N - Palisades Interstate,1951,12/05/2016,FO,4.67
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),4.6 MI NW OF W.HAVERSTRAW,987A987A85011050 TIORATI BROOK,2N - Palisades Interstate,1970,09/30/2016,N,5.00
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),1.3 MI N JCT PIP+RTE 210,987A987A85011055 LAKE TIORATI BRK,2N - Palisades Interstate,1951,11/14/2016,SD,3.70
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),4.6 MI NW OF W HAVERSTRAW,987AX TIORATI BROOK,2N - Palisades Interstate,1970,11/06/2015,N,5.44
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),.8 MI N JCT PIP & SH 210,987C 987C85011185 LAKE TIORATI BRK,2N - Palisades Interstate,1951,12/06/2016,FO,3.33
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),EXIT 14 - P I P,987C987C85011166 CR98-WLLOW GRV RD,2N - Palisades Interstate,1951,11/09/2016,FO,5.43
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),1.4 MI N JCT PIP+RTE 210,987C987C85011191 LAKE TIORATI BRK,2N - Palisades Interstate,1950,11/30/2016,N,4.57
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),1.7 MI N JCT PIP+RTE 210,987C987C85011194 STILLWATER CREEK,2N - Palisades Interstate,1951,11/29/2016,FO,4.33
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),1.5 MI S OF FT MONTGOMERY,987E987E85031020 VEHICULAR UNDRPSS,2N - Palisades Interstate,1934,05/26/2015,FO,4.26
+"",,,,Park Commission,,,,
+kland,Stony Point (Town),0.2 MI S JCT RTS 9W & 210,9W9W85011178 LOCAL ROAD,NYSDOT,2009,11/06/2015,N,6.00
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty,Municipality,Location,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+kland,Stony Point (Town),EXIT 15 OF PIP,COUNTY ROAD 106 987C 987C85011176,NYSDOT,1951,11/16/2016,FO,4.76
+kland,Stony Point (Town),1.7 MI W JCT CR 106 & PIP,COUNTY ROAD 106 MINISCEONGO CREEK,30 - County,1992,07/17/2017,N,6.29
+kland,Stony Point (Town),0.7 MI E JCT RTE 210+PIP,COUNTY ROAD 210 CEDAR POND BROOK,30 - County,1970,07/26/2016,N,4.58
+kland,Stony Point (Town),1.5 MI E JCT RTE 210+PIP,COUNTY ROUTE 106 CEDAR POND BROOK,30 - County,1970,12/05/2016,N,4.67
+kland,Stony Point (Town),0.5 MI SE OF STONY POINT,E MAIN STREET MINISCEONGO CREEK,30 - County,1953,08/12/2015,FO,5.20
+kland,Stony Point (Town),0.2 MI SE OF STONY POINT,EAST MAIN STREET CSXT RIVER LINE,30 - County,1991,05/02/2016,FO,5.78
+kland,Stony Point (Town),0.3 MI S OF STONY POINT,LOWLAND HILL ROAD CEDAR POND BROOK,30 - County,1977,07/14/2015,N,5.16
+kland,Stony Point (Town),1.0 MI W OF STONY POINT,RESERVOIR  ROAD CEDAR POND BROOK,30 - County,1926,10/26/2016,FO,6.22
+kland,Stony Point (Town),.8 MILE N OF STONY POINT,STONY PT PARK RD CSX TRANS/ RVR LN,2N - Palisades Interstate,1985,05/12/2017,SD,4.55
+"",,,,Park Commission,,,,
+kland,Suffern (Village),2.1 MI E JCT RTS 59+17,59  59 85011020 MAHWAH RIVER,NYSDOT,1933,07/13/2016,N,4.70
+kland,Suffern (Village),0.4 MI S JCT RTS 202 & 59,202 202 85011005 CHESTNUT STREET,NYSDOT,1998,09/14/2016,SD,5.15
+kland,Suffern (Village),0.1 MI W JCT RTS I87<202,287IX Mahwah River,2L - NYS Thruway Authority,1953,06/27/2017,N,4.48
+kland,Suffern (Village),JCT OF I87 & S H 202,87IX 202,2L - NYS Thruway Authority,1953,06/09/2016,FO,4.86
+kland,Suffern (Village),ORANGE AVE. RT.59 & NJ TR,87IX  NB 59  59 85011014,2L - NYS Thruway Authority,1954,11/21/2016,FO,4.73
+kland,Suffern (Village),JCT I87 & S.H.59,87IX  NB TO I-287 87IX,2L - NYS Thruway Authority,1995,05/12/2017,FO,5.31
+kland,Suffern (Village),ORANGE AVE. RT.59 & NJ TR,87IX  SB 5959 85011014,2L - NYS Thruway Authority,1954,11/21/2016,FO,4.38
+kland,Suffern (Village),SOUTH END OF SUFFERN,BOULEVARD STREET MAHWAH RIVER,30 - County,1998,06/21/2016,N,6.20
+kland,Suffern (Village),JCT SH 17N & I87 & SH 59,I287-I87 INTERCHG 59  59  85011013,2L - NYS Thruway Authority,1995,04/12/2017,FO,5.95
+kland,West Haverstraw (Village),1.3 MI NW OF HAVERSTRAW,BRIDGE STREET MINISCEONGO CREEK,30 - County,1993,06/03/2016,FO,6.05
+kland,West Haverstraw (Village),IN WEST HAVERSTRAW,COUNTY ROAD 33 MINISCEONGO CREEK,30 - County,1963,05/26/2015,N,5.41
+kland,West Haverstraw (Village),IN WEST HAVERSTRAW,SAMSONDALE AVENUE CSX TRANS/ RVR LN,30 - County,1977,06/03/2016,SD,3.85
+kland,,1.6 MI S Jct B Mtn Circle,9W85011252 Doodletown Brook,NYSDOT,1929,11/07/2015,N,3.73
+"",,,"NY State Highway Bridge Data:  October 31, 2017",,,,,
+"",,,Rockland County,,,,,
+"",,,,,Year,Date,,NYS
+"",,,,,Built or,of Last,SD/FO,Condition
+nty Municipality,Location,,Feature Carried Feature Crossed,Owner,Replaced,Inspection,Status,Rating
+"rrent as of October 31, 2017",,,,,,,,
+rally Deficient (SD)/Functionally Obsolete (FO) info is current as of,,,,,,,,
+Status,,,,,,,,
+"= Structurally Deficient",,,,,,,,
+"= Functionally Obsolete",,,,,,,,
+Neither SD/FO,,,,,,,,
+k = No data available,,,,,,,,
+tems,,,,,,,,
+k = Data not available,,,,,,,,
+ondition Rating,,,,,,,,
+"se refer to the narrative, FAQs and the 'Key to New York State Highway Bridge Data' for additional",,,,,,,,
+on.,,,,,,,,
